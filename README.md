@@ -33,3 +33,4 @@ Stell dir vor, du hast die Aufgabe, die Backend-Logik für ein Restaurant zu ers
 
 ### Bonus: Gesamtpreisberechnung
 7. Füge ein virtuelles Feld `totalPrice` zu deinem Schema hinzu, das den Gesamtpreis für eine Bestellung berechnet, indem es die Preise aller `foodItems` in einer Bestellung addiert. 
+Tipp: https://mongoosejs.com/docs/tutorials/virtuals.html
